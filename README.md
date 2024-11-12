@@ -2,8 +2,6 @@
 
 A modern, animated React contact form component with a sophisticated dark theme and advanced UI interactions. Built with TypeScript, Framer Motion, and Tailwind CSS.
 
-![Contact Form Preview](/api/placeholder/800/400)
-
 ## 🌟 Features
 
 ### Visual Design
