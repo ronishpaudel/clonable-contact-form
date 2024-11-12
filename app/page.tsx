@@ -169,7 +169,7 @@ export default function ContactForm() {
               ))}
             </AnimatePresence>
           </div>
-          <div className="px-4 py-2 sm:px-8 sm:py-4 bg-gray-900 border-t border-gray-700 flex justify-between items-center">
+          <div className="px-4 py-2  sm:py-4 bg-gray-900 border-t border-gray-700 flex justify-between items-center">
             <motion.button
               type="button"
               onClick={addField}
