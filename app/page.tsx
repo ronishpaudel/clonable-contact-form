@@ -3,11 +3,6 @@ import { useState, useRef } from "react";
 import { User, Mail, Plus, X, CheckCircle, AlertCircle } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
-interface FormField {
-  name: string;
-  email: string;
-}
-
 export default function ContactForm() {
   const [fields, setFields] = useState<FormField[]>([{ name: "", email: "" }]);
   const [isSubmitting, setIsSubmitting] = useState(false);
