@@ -8,12 +8,6 @@ https://cloneable-contact-form007.vercel.app/
 
 ### Visual Design
 
-- Modern dark theme with purple and pink accents
-- Gradient effects and smooth animations
-- Responsive design that works on all screen sizes
-- Sophisticated form field interactions
-- Animated status notifications
-
 ### Technical Features
 
 - Multiple contact fields with dynamic add/remove functionality
